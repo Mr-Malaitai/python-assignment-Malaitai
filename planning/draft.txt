@@ -1,0 +1,25 @@
+Instructions:
+
+5 topics/categories
+- anime
+- video games
+- films
+- comics
+- television shows
+
+3 difficulties (easy, medium, hard)
+- easy
+- medium
+- hard
+
+Scoring system to calculate highest score
+
+Randomise questions
+
+Welcome/introduction screen
+
+Finish/final results screen
+
+Buttons for the answers or a dropdown menu
+
+Picture questions 
